@@ -22,7 +22,7 @@ BODY{
     text-align: center;
 }
 .menu li a:hover{
-    background: #ef8354;
+    background: brown;
 }
 *{
     margin: 0;
